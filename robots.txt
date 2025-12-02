@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://victor1989tara-star.github.io/Northamptonshire-carpet-clean/sitemap.xml
